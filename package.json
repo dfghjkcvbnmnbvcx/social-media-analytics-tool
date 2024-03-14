@@ -1,0 +1,22 @@
+{
+  "name": "social-media-analytics-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfghjkcvbnmnbvcx/social-media-analytics-tool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfghjkcvbnmnbvcx/social-media-analytics-tool/issues"
+  },
+  "homepage": "https://github.com/dfghjkcvbnmnbvcx/social-media-analytics-tool#readme",
+  "dependencies": {
+    "sum-dangtthuynhi": "^1.0.8"
+  }
+}

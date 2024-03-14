@@ -1,0 +1,23 @@
+{
+  "name": "are-arrays",
+  "version": "1.0.0",
+  "description": "Function for check if all values are arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rich-97/are-arrays.git"
+  },
+  "keywords": [
+    "arrays",
+    "equal"
+  ],
+  "author": "Ricardo Moreno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rich-97/are-arrays/issues"
+  },
+  "homepage": "https://github.com/rich-97/are-arrays#readme"
+}
