@@ -104,3 +104,12 @@ visualizeData(data, 'line')
   <li><strong>Returns</strong>: A promise that resolves to the report data.</li>
 </ul>
 
+### monitorTrends(platform, keyword)
+
+<p>Monitors trends on the specified platform for the given keyword.</p>
+
+<ul>
+  <li><strong>platform</strong> (string): The social media platform (e.g., 'instagram').</li>
+  <li><strong>keyword</strong> (string): The hashtag or keyword to monitor (e.g., 'hashtag').</li>
+  <li><strong>Returns</strong>: A promise that resolves to the trends data.</li>
+</ul>
