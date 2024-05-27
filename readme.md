@@ -113,3 +113,17 @@ visualizeData(data, 'line')
   <li><strong>keyword</strong> (string): The hashtag or keyword to monitor (e.g., 'hashtag').</li>
   <li><strong>Returns</strong>: A promise that resolves to the trends data.</li>
 </ul>
+
+### visualizeData(data, chartType)
+
+<p>Visualizes the given data using the specified chart type.</p>
+
+<ul>
+  <li><strong>data</strong> (object): The data to visualize, including labels and series.</li>
+  <li><strong>chartType</strong> (string): The type of chart to create (e.g., 'line', 'bar').</li>
+  <li><strong>Returns</strong>: A promise that resolves to the chart.</li>
+</ul>
+
+## License
+
+<p>This project is licensed under the MIT License.</p>
