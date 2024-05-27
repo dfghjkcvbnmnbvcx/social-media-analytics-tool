@@ -82,3 +82,16 @@ visualizeData(data, 'line')
 </code>
 </pre>
 
+## API
+
+### trackEngagement(platform, identifier)
+
+<p>Tracks social media engagement on the specified platform for the given identifier.</p>
+
+<ul>
+  <li><strong>platform</strong> (string): The social media platform (e.g., 'twitter').</li>
+  <li><strong>identifier</strong> (string): The user or page identifier (e.g., '@username').</li>
+  <li><strong>Returns</strong>: A promise that resolves to the engagement data.</li>
+</ul>
+
+
