@@ -40,3 +40,15 @@ trackEngagement('twitter', '@username')
   .catch(error => console.error(error));
 </code>
 </pre>
+
+### Generating Reports
+
+<p>Use the <code>generateReport</code> function to generate a detailed report:</p>
+
+<pre>
+<code>
+generateReport('facebook', 'page_id')
+  .then(report => console.log(report))
+  .catch(error => console.error(error));
+</code>
+</pre>
