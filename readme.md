@@ -64,3 +64,15 @@ monitorTrends('instagram', 'hashtag')
   .catch(error => console.error(error));
 </code>
 </pre>
+
+### Visualizing Data
+
+<p>Use the <code>visualizeData</code> function to visualize data:</p>
+
+<pre>
+<code>
+const data = {
+  labels: ['January', 'February', 'March', 'April'],
+  series: [10, 20, 30, 40]
+};
+
