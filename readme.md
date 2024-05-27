@@ -52,3 +52,15 @@ generateReport('facebook', 'page_id')
   .catch(error => console.error(error));
 </code>
 </pre>
+
+### Monitoring Trends
+
+<p>Use the <code>monitorTrends</code> function to monitor social media trends:</p>
+
+<pre>
+<code>
+monitorTrends('instagram', 'hashtag')
+  .then(trends => console.log(trends))
+  .catch(error => console.error(error));
+</code>
+</pre>
