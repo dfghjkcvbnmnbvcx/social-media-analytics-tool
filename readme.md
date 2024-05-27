@@ -10,3 +10,11 @@
   <li>Monitor trends and sentiment analysis</li>
   <li>Visualize data with charts and graphs</li>
 </ul>
+
+## Installation
+
+<pre>
+<code>
+npm install social-media-analytics-tool
+</code>
+</pre>
