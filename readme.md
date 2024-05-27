@@ -94,4 +94,13 @@ visualizeData(data, 'line')
   <li><strong>Returns</strong>: A promise that resolves to the engagement data.</li>
 </ul>
 
+### generateReport(platform, identifier)
+
+<p>Generates a detailed report for the specified platform and identifier.</p>
+
+<ul>
+  <li><strong>platform</strong> (string): The social media platform (e.g., 'facebook').</li>
+  <li><strong>identifier</strong> (string): The page identifier (e.g., 'page_id').</li>
+  <li><strong>Returns</strong>: A promise that resolves to the report data.</li>
+</ul>
 
