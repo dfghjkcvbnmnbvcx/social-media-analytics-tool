@@ -76,3 +76,9 @@ const data = {
   series: [10, 20, 30, 40]
 };
 
+visualizeData(data, 'line')
+  .then(chart => console.log(chart))
+  .catch(error => console.error(error));
+</code>
+</pre>
+
