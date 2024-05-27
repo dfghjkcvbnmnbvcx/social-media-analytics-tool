@@ -28,3 +28,15 @@ npm install social-media-analytics-tool
 const { trackEngagement, generateReport, monitorTrends, visualizeData } = require('social-media-analytics-tool');
 </code>
 </pre>
+
+### Tracking Engagement
+
+<p>Use the <code>trackEngagement</code> function to track social media engagement:</p>
+
+<pre>
+<code>
+trackEngagement('twitter', '@username')
+  .then(data => console.log(data))
+  .catch(error => console.error(error));
+</code>
+</pre>
