@@ -18,3 +18,13 @@
 npm install social-media-analytics-tool
 </code>
 </pre>
+
+## Usage
+
+<p>First, import the required functions from the library:</p>
+
+<pre>
+<code>
+const { trackEngagement, generateReport, monitorTrends, visualizeData } = require('social-media-analytics-tool');
+</code>
+</pre>
